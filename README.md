@@ -1,3 +1,4 @@
+```markdown
 # Focus Stacking in Python
 
 This repository contains a Python implementation of focus stacking using multi-scale pyramid blending. Focus stacking is a digital image processing technique that combines multiple images taken at different focus distances to create a single image with a greater depth of field (DoF) than any of the individual source images.
@@ -70,8 +71,9 @@ You can adjust several parameters in the code:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
 This implementation is based on a MATLAB implementation of focus stacking using multi-scale pyramid blending.
+```
